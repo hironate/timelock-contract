@@ -9,8 +9,6 @@ You can specify Fees in BNB/ETH or in percent in Smart Contract file. Owner of s
 ##### .secret
 File which contains 12 secret mnemonic phrases of your hd wallet.
 
-#### Commands to deploy and airdrop
-
 ##### Deploy smart contact
  - ```npm install```
  - Copiling smart contract ```truffle compile```
